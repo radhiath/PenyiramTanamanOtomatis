@@ -1,2 +1,2 @@
 # PenyiramTanamanOtomatis
-Project Akhir mata kuliah Mikroprosesor dan Antarmuka
+Project akhir mata kuliah Mikroprosesor dan Antarmuka
